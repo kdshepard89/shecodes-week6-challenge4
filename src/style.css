@@ -6,6 +6,12 @@ form {
   text-align: center;
   margin: 20px;
 }
+.temperature {
+  font-size: 45px;
+}
+.celcius {
+  font-size: 45px;
+}
 .today-weather {
   text-align: center;
   display: block;
